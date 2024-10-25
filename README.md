@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi 👋, I'm Gargi Porwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqm3WYr1vgqG-u3xol6tbHW-JFeiTNhcGfA&s”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargiporwal-01&label=Profile%20views&color=0e75b6&style=flat" alt="gargiporwal-01" /> </p>
 
