@@ -8,7 +8,7 @@
 </p>
 
 ---
-
+- 💼 I’m an aspiring Full Stack Web Developer
 - 🌱 I’m currently learning **React.js**
 - 📫 Reach me at: **gargi.porwal.2828@gmail.com**
 
