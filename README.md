@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=gargiporwal-01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
------
+---
 - 💼 I’m an aspiring Full Stack Web Developer  
 - 🌱 I’m currently learning **React.js**  
 - 📫 Reach me at: **gargi.porwal.2828@gmail.com**
