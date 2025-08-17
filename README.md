@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
+![MasterHead](https://files.catbox.moe/91u9z6.png)
 
 <h1 align="center">Hi 👋, I'm Gargi Porwal</h1>
 <h3 align="center">✨ Frontend Developer | MERN Stack Enthusiast | Lifelong Learner ✨</h3>
@@ -45,18 +45,4 @@
 
 | 🔥 Streak | 📈 Stats | 💻 Languages |
 |-----------|----------|--------------|
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargiporwal-01&theme=tokyonight" /> | <img src="https://github-readme-stats.vercel.app/api?username=gargiporwal-01&show_icons=true&theme=tokyonight" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargiporwal-01&layout=compact&theme=tokyonight" /> |
-
-</div>
-
----
-
-### ✨ Fun Facts  
-- 💡 I love creating **beautiful UIs** that users enjoy  
-- 🎨 In my free time, I design on **Figma**  
-- 📚 Always curious to **learn & grow** in tech  
-- 🎯 Goal: Contribute to **open-source projects**  
-
----
-
-⭐️ *Thanks for visiting my profile! Let’s connect, collaborate, and grow together 🚀*
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargiporwal-01&theme=tokyonight" /> | <img src="https://github-readme-stats.vercel.app/api?usernam
