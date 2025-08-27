@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
+![MasterHead]([https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif](https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif))
 
 <h1 align="center">Hi 👋, I'm Gargi Porwal</h1>
 <h3 align="center">✨ Frontend Developer | MERN Stack Enthusiast | Lifelong Learner ✨</h3>
