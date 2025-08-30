@@ -35,9 +35,15 @@
 
 ### 🛠️ Tech Stack  
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,php,python,git,figma,postman,firebase,gcp" />  
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,materialui,bootstrap,tailwind" />  
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,java,python" />  
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker,aws,firebase,gcp" />  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,figma,postman" />  
 </p>  
-
 ---
 
 ### 📊 GitHub Stats  
